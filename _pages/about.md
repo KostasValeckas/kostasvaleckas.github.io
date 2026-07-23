@@ -27,7 +27,7 @@ latest_posts:
 
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
 
-<div style="flex: 1; min-width: 250px;">
+<div style="flex: 1; min-width: 350px;">
 
   <h1>Hi!</h1>
 
@@ -53,7 +53,7 @@ latest_posts:
 </div>
 
   <div style="flex-shrink: 0;">
-    <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" width="500" alt="Profile picture" style="border-radius: 8px;">
+    <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" width="350" alt="Profile picture" style="border-radius: 8px;">
   </div>
 
 </div>
@@ -68,7 +68,7 @@ After finishing public school, I spent time working as a musician and teaching m
 
 During my physics studies at the [University of Copenhagen](https://www.ku.dk/), I quickly discovered that I had both the interest and flair for programming, leading me to pursue a mixed graduate degree in physics and computer science, which I completed in the summer of 2026. Since my BSc project, I have taken a particular interest in astronomical instrumentation and data processing, which has led to my involvement in several [projects](/projects) at the [Niels Bohr Institute](https://www.nbi.ku.dk/).
 
-While studying, I worked as a student programming assistant at the [Cosmic Dawn Center](https://cosmicdawn.dk/), where I was involved in several software development [projects](/projects) for astronomical data processing. Furthermore, I opened and managed my own company for tutoring physics and mathematics, which I ran for several years.
+While studying, I worked as a student programming assistant at the [Cosmic Dawn Center](https://cosmicdawn.dk/), where I was involved in [software development for astronomical data processing](/projects). Furthermore, I opened and managed my own company for tutoring physics and mathematics, which I ran for several years.
 
 I spent the last one and a half years of my graduate studies working as a student support astronomer at the [Nordic Optical Telescope](https://www.not.iac.es/), where I was involved in several software development [projects](/projects) in addition to my nightly observing duties. 
 
