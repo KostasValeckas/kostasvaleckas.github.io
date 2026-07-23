@@ -48,7 +48,7 @@ latest_posts:
     <a href="https://www.not.iac.es/" target="_blank" rel="noopener noreferrer">Nordic Optical Telescope</a>.
   </p>
 
-  <p>I have made this page to collect general information about my academic career and a bit about me as a person.</p>
+  <p>I have made this page to collect general information about my academic career and a bit about me as a person. Use the menu in the upper right corner to navigate - and always feel free to get in touch!</p>
 
 </div>
 
