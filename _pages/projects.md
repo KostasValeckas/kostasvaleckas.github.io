@@ -99,4 +99,4 @@ I have been selected to perform a 12 night run on-site at the Danish 1.54m teles
 # Research Projects
 --------
 
-My research interests are highly technical, focused on observational astronomy, instrumentation, and data processing. I am involved in several research projects, where my contributions are primarly in data acquisition and processing. See the list of [publications](/publications) for a complete overview of my research contributions.
+My research interests are highly technical, focused on observational astronomy, instrumentation, and data processing. I am involved in several research projects, where my contributions are primarily in data acquisition and processing. See the list of [publications](/publications) for a complete overview of my research contributions.

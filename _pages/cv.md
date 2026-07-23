@@ -20,7 +20,7 @@ nav_order: 5
 ### Programming Internship (ESO)
 August 2026 - January 2027
 - Supervisor: Enrico Congiu (Enrico.Congiu@eso.org)
-- Tasks: Astrometric allignment of MUSE data.
+- Tasks: Astrometric alignment of MUSE data.
 
 ### Student Support Astronomer (Nordic Optical Telescope)
 April 2024 — July 2026 
