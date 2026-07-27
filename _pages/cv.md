@@ -29,7 +29,7 @@ April 2024 — July 2026
 
 ### Student Programmer (The Cosmic Dawn Center, Niels Bohr Institute, University of Copenhagen)
 Oct 2023 — Oct 2024  
-- Supervisor: Johan (Peter) Uldall Fynbo (jfynb@…nbi.ku.dk)  
+- Supervisor: Johan Peter Uldall Fynbo (jfynbo@nbi.ku.dk)  
 - Tasks: programming tasks related to astronomical (spectroscopic) data reduction.
 
 ### Teaching (Self-employed) — Part time  
