@@ -239,7 +239,6 @@ exclude:
   - migrations/
   - vendor
   - teaching.md
-  - blog.md
 keep_files:
   - CNAME
   - .nojekyll
