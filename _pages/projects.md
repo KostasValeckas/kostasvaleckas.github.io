@@ -83,7 +83,7 @@ Cyberinfrastructure for Astronomy IX], Paper 14155–15 (2026).
 
 I have observed with the [Nordic Optical Telescope](https://www.not.iac.es/) (NOT) for roughly a 100 nights for several different programmes: 
 
-- I held a position as a student support astronomer at the NOT for 1.5 years, where I both conducted observations in service mode for a [large array of science cases](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22Valeckas%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) and supported visiting astronomers in their observations.
+- I held a position as a student support astronomer at the NOT for 1.5 years, where I both conducted observations in service mode for a [large array of science cases](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22Valeckas%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) and supported visiting astronomers in their observations. I also trained new students and researchers on the telescope and its instruments. Furthermore, I have given telescope tours and presentations to visiting groups of students and researchers, as well as to the general public.
 - I have conducted two observing runs as a visiting astronomer at the NOT, where I conducted observations on behalf of [NBI](https://nbi.ku.dk/english/).
 - I have supported a 1-week summer school at the NOT, where I both functioned as a support astronomer and teaching assistant for the students - including hands-on tutorials and guidance on data reduction.
 <br><br>
@@ -95,6 +95,17 @@ I have observed with the [Nordic Optical Telescope](https://www.not.iac.es/) (NO
 I have been selected to perform a 12 night run on-site at the Danish 1.54m telescope at La Silla Observatory in Chile on behalf of the [MiNDSTEp mission](http://www.mindstep-science.org/). I have completed training on the telescope and its instruments, but could not perform the observations due to severely bad weather conditions.
 
 <br><br>
+
+--------
+
+### William Herschel and MAGIC telescopes (La Palma, Spain)
+
+I have performed exchange nights on the William Herschel Telescope (WHT) and the MAGIC telescopes at the [Roque de los Muchachos Observatory](https://www.iac.es/en/observatories/roque-de-los-muchachos-observatory), where I have shadowed observatory staff for a night and learned about the operation of the telescopes and their instruments.
+
+<br><br>
+
+--------
+
 
 # Research Projects
 --------
