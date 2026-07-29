@@ -92,7 +92,7 @@ I have observed with the [Nordic Optical Telescope](https://www.not.iac.es/) (NO
 
 ### Danish 1.54m Telescope (La Silla, Chile)
 
-I have been selected to perform a 12 night run on-site at the Danish 1.54m telescope at La Silla Observatory in Chile, where I conducted observations on behalf of [MiNDSTEp mission](http://www.mindstep-science.org/).
+I have been selected to perform a 12 night run on-site at the Danish 1.54m telescope at La Silla Observatory in Chile on behalf of the [MiNDSTEp mission](http://www.mindstep-science.org/). I have completed training on the telescope and its instruments, but could not perform the observations due to severely bad weather conditions.
 
 <br><br>
 
