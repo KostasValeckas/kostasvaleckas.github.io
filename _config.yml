@@ -197,6 +197,7 @@ exclude:
   - migrations/
   - vendor
   - teaching.md
+  - googlea587c29598769b1b.html
 keep_files:
   - CNAME
   - .nojekyll
