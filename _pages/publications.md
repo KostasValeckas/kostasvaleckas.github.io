@@ -29,10 +29,15 @@ nav_order: 2
 
 
 - **NOT transient explorer (NTE)**
- Michael I. Andersen; Jacob W. Clasen; Johan P. U. Fynbo; Anton N. Sørensen; Joonas K. M. Viuho; Bo Milvang-Jensen; Lise B. Christensen; Dennis W. Wistisen; Niels Michaelsen; Simon A. M. W. Fassel et al.
-In *Ground-based and Airborne Instrumentation for Astronomy XI* (SPIE Proceedings),
-Paper 14149-160, 2026.
-[DOI](10.1117/12.3105328)
+
+  Michael I. Andersen; Jacob W. Clasen; Johan P. U. Fynbo; Anton N. Sørensen; Joonas K. M. Viuho; Bo Milvang-Jensen; Lise B. Christensen; Dennis W. Wistisen; Niels Michaelsen; Simon A. M. W. Fassel et al.
+  
+  In *Ground-based and Airborne Instrumentation for Astronomy XI* (SPIE Proceedings),
+  
+  Paper 14149-160, 2026.
+  
+  [DOI](10.1117/12.3105328)
+
 
 
 ## Preprints in Review
