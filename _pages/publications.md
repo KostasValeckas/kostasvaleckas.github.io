@@ -17,6 +17,7 @@ nav_order: 2
 - **Introducing the data-reduction pipeline for the Nordic Optical Telescope Transient Explorer spectrograph**  
   **Valeckas, Kostas**, Kadela, Arthur M., Viuho, Joonas K. M., Christensen, Lise B., Fynbo, Johan P. U., Andersen, Michael I., Sørensen, Anton N., Milvang-Jensen, Bo, and Heintz, Kasper E.  
   In *Software and Cyberinfrastructure for Astronomy IX* (SPIE Proceedings), Paper 14155-15, 2026.
+  [DOI](10.1117/12.3101466)
 
 
 ## Non-First Author Publications
@@ -25,6 +26,14 @@ nav_order: 2
   C. C. Pedersen, M. R. M. Knudsen, **K. Valeckas**, L. Izzo, T. M. Tauris, J. P. U. Fynbo  
   *Astronomy & Astrophysics* **703**, A87 (2025).  
   [DOI](https://doi.org/10.1051/0004-6361/202555119)
+
+
+- **NOT transient explorer (NTE)**
+ Michael I. Andersen; Jacob W. Clasen; Johan P. U. Fynbo; Anton N. Sørensen; Joonas K. M. Viuho; Bo Milvang-Jensen; Lise B. Christensen; Dennis W. Wistisen; Niels Michaelsen; Simon A. M. W. Fassel et al.
+In *Ground-based and Airborne Instrumentation for Astronomy XI* (SPIE Proceedings),
+Paper 14149-160, 2026.
+[DOI](10.1117/12.3105328)
+
 
 ## Preprints in Review
 
