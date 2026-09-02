@@ -52,6 +52,17 @@ nav_order: 2
   *arXiv* (2025).  
   [arXiv:2512.10811](https://arxiv.org/abs/2512.10811) · [DOI](https://doi.org/10.48550/arXiv.2512.10811)
 
+## Conference Presentations
+
+- **Introducing the data-reduction pipeline for the Nordic Optical Telescope Transient Explorer spectrograph**  
+  SPIE Astronomical Telescopes+ Instrumentation, Copenhagen, Denmark, 2026.  
+  https://spie.org/astronomical-telescopes-instrumentation/presentation/Introducing-the-data-reduction-pipeline-for-the-Nordic-Optical-Telescope/14155-15
+
+- **Presenting PyLongslit – a new manual pipeline for long-slit spectroscopy**  
+  Nordic-Baltic Astronomy Days 2026, Turku, Finland, 2026.  
+  https://indico.global/event/15138/contributions/148190/
+
+
 ## Transient GCN Reports
 
 - **GRB 260509A: NOT spectroscopic redshift upper limit z < 1.95**  
